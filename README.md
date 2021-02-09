@@ -1,6 +1,6 @@
 # loops-off-of-master
 
-Create a new repo
+<!-- Create a new repo
 Clone it
 Create a branch called loops off of master
 Complete each of the following exercises:
@@ -19,4 +19,4 @@ Use .filter() to filter the persons array and console.log only males in the arra
 Create a function that returns true if the value of birthDate is before Jan 1, 1990.
 Use .filter() to filter the persons array and console.log only people that were born before Jan 1, 1990.
 BONUS - Create a function that returns true if the date passed to it is >= 21 years in the past.
-BONUS - .filter() out the people in the array who are younger than 21.
+BONUS - .filter() out the people in the array who are younger than 21. -->
