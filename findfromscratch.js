@@ -16,7 +16,7 @@ let findAge = function (array, func) {
     // else the function will trturn as undefined
   }
 }
-// 
+// test 
 let found = ageArray.find(element => element > 55)
-
+// output 86
 console.log(found)
